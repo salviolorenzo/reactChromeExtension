@@ -9,6 +9,11 @@
     "default_popup": "index.html",
     "default_title": "Open the popup"
   },
-  "icons": {},
-  "permissions": []
+  "icons": {
+    "16": "s-o-logo.png",
+    "48": "s-o-logo.png",
+    "128": "s-o-logo.png"
+  },
+  "permissions": [],
+  "content_security_policy": "script-src 'self' 'sha256-5As4+3YpY62+l38PsxCEkjB1R4YtyktBtRScTJ3fyLU='; object-src 'self'"
 }
